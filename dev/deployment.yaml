@@ -4,6 +4,7 @@ metadata:
   name: dnsutils
   labels:
     app: dnsutils
+    owner: akargar
   namespace: default
 spec:
   replicas: 2 
